@@ -1,0 +1,12 @@
+specVersion: "v1beta"
+serviceId: "lucidly_in"
+location: "us-central1"
+schema:
+  source: "./schema"
+  datasource:
+    postgresql:
+      database: "fdcdb"
+      cloudSql:
+        instanceId: "lucidly_in-fdc"
+      # schemaValidation: "COMPATIBLE"
+connectorDirs: ["./connector"]

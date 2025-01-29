@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "63758302436",
+    "project_id": "lucidly-in",
+    "storage_bucket": "lucidly-in.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63758302436:android:4df6dfefe6bffa29e740f1",
+        "android_client_info": {
+          "package_name": "com.example.lucidly_in"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPpPYuzK25CmZt-yh_mpRzyazlKu5kfjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
