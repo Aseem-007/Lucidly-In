@@ -49,10 +49,10 @@ class _MyHomePageState extends State<MyHomePage> {
     // double height = MediaQuery.of(context).size.height;
     return const Scaffold(
       backgroundColor: Color.fromARGB(255, 236, 241, 244),
-      body: ResponsiveLayout(
-        mobileBody: MobileView(),
-        desktopBody: DesktopView(),
-      ),
+      // body: ResponsiveLayout(
+      //   mobileBody: MobileView(),
+      //   // desktopBody: DesktopView(),
+      // ),
     );
   }
 }
